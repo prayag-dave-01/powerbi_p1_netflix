@@ -126,12 +126,11 @@ type and observe how the visuals respond.
 
 ### Dashboard Preview
 
-The preview below is taken from the final-dashboard image included in
-the supplied project documentation. For the strongest portfolio
-presentation, consider replacing it with fresh screenshots exported
-directly from both pages of your own `.pbix` report.
+### Page 1
+![Netflix Dashboard Page 1](Dashboard%20Page%201.png)
 
-![Netflix Power BI dashboard preview](images/dashboard-preview.png)
+### Page 2
+![Netflix Dashboard Page 2](Dashboard%20Page%202.png)
 
 ## Key Observations from the Supplied Dataset
 
